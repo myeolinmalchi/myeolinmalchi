@@ -9,13 +9,15 @@
 #### 🧠 RAG & AI Agent
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white&style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-langgraph?style=flat-square&logo=langgraph&logoColor=white&color=%23080808)
-![pgvector](https://img.shields.io/badge/pgvector-postgresql?style=flat-square&logo=postgresql&logoColor=white&color=%234169E1)
+![pgvector](https://img.shields.io/badge/pgvector-postgresql?style=flat-square&logo=postgresql&logoColor=white&color=%234169E1)  
 ![llama-cpp-python](https://img.shields.io/badge/llama--cpp--python-%231B1F20?style=flat-square)
+![onnxruntime](https://img.shields.io/badge/onnxruntime-%233A3A39?style=flat-square&logo=onnx&logoColor=%233A3A39&color=white)
 
 #### 🛠️ Backend & DB
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-sqlalchemy?style=flat-square&logo=sqlalchemy&logoColor=white&color=%23D71F00)
 ![Dependency Injector](https://img.shields.io/badge/Dependency_Injector-%2337A6FF?style=flat-square)  
+![pgvector](https://img.shields.io/badge/PostgreSQL-postgresql?style=flat-square&logo=postgresql&logoColor=white&color=%234169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
