@@ -12,10 +12,12 @@
 ![pgvector](https://img.shields.io/badge/pgvector-postgresql?style=flat-square&logo=postgresql&logoColor=white&color=%234169E1)
 ![llama-cpp-python](https://img.shields.io/badge/llama--cpp--python-%231B1F20?style=flat-square)
 
-#### 🛠️ Backend
+#### 🛠️ Backend & DB
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-sqlalchemy?style=flat-square&logo=sqlalchemy&logoColor=white&color=%23D71F00)
-![Dependency Injector](https://img.shields.io/badge/Dependency_Injector-%2337A6FF?style=flat-square)
+![Dependency Injector](https://img.shields.io/badge/Dependency_Injector-%2337A6FF?style=flat-square)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 #### 🖥️ Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -73,9 +75,6 @@ AID 자율 스터디 활동
 (부산대 AI 동아리, NLP 기초 및 논문 스터디)
 
 <br/>
-
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fmyeolinmalchi?color=blue&label=hits&size=small)](https://myhits.vercel.app)
-
 </div>
 
 ---
