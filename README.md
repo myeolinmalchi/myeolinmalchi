@@ -29,14 +29,17 @@
 
 ### 👨‍💻 Projects
 
-#### **금쪽이** 
+#### 금쪽이
 AI Agent 기반 금융상품 큐레이팅 서비스  
 _(25.03 ~ 진행 중)_  
 
-#### **[PNU Chat](https://pnu.chat)**  
+#### [PNU Chat](https://pnu.chat)  
 부산대학교 학사 지원 챗봇 (비공식)    
 학사 공지 15만건 수집 / RAG 파이프라인 구축  
 _(24.10 ~ 25.04)_  
+
+<details>
+<summary>기타 외주 프로젝트</summary>
 
 #### 단기 외주
 [메디스토리지](https://medistorage.kr/landing/index.html), [한비즈](https://www.krbizcc.co.kr/) 등 웹 외주 작업  
@@ -49,10 +52,11 @@ _(24.02 ~ 25.06)_
   유저·관리자 인터페이스 구현  
   _(23.02 ~ 24.01)_  
 
-
 #### [천안아산강소특구](https://innopolis-katech.re.kr/) 
 HTML/CSS/JS 기반 리뉴얼 홈페이지 퍼블리싱  
 _(22.11 ~ 23.01)_  
+</details>
+
 
 ### 🌐 Activities
 
