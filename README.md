@@ -62,10 +62,13 @@ _(22.11 ~ 23.01)_
 </details>
 
 
-### 🌐 Activities
+### 🌐 Achievements
 
 2025 FIN:NECT Challenge  
-(통합 본선 진출, 대회 진행 중)
+(통합 본선 진출, 금쪽이 프로젝트)
+
+DIVE 2025 BNK 금융지주 트랙 2위  
+(TabTransformer 기반 고객 데이터 분석)
 
 PNU x Upstage Document AI Challenge 운영진  
 (문서 기반 AI 서비스 해커톤, 개발지원팀 참여)
