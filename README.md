@@ -33,7 +33,7 @@
 
 ### 👨‍💻 Projects
 
-#### 금쪽이
+#### [금쪽이](https://youtu.be/pDSlg8f1r5Q?si=EobTyw_mNLYBOzvP)
 AI Agent 기반 금융상품 큐레이팅 서비스  
 _(25.03 ~ 진행 중)_  
 
@@ -65,19 +65,19 @@ _(22.11 ~ 23.01)_
 ### 🌐 Achievements
 
 2025 FIN:NECT Challenge  
-(통합 본선 진출, 금쪽이 프로젝트)
+금쪽이 프로젝트 / 통합 본선 입상  
 
-DIVE 2025 BNK 금융지주 트랙 2위  
-(TabTransformer 기반 고객 데이터 분석)
+DIVE 2025 BNK 금융지주 트랙  
+TabTransformer 기반 고객 유형 분석 / 2위  
 
-PNU x Upstage Document AI Challenge 운영진  
-(문서 기반 AI 서비스 해커톤, 개발지원팀 참여)
+PNU x Upstage Document AI Challenge    
+문서 기반 AI 서비스 해커톤 / 운영진  
 
-APPTIVE 프론트엔드 멘토  
-(부산대 프로젝트 동아리, `React` 스터디 운영)
+IT 프로젝트 동아리 (APPTIVE)  
+프론트엔드 멘토 / `React` 스터디 운영
 
-AID 자율 스터디 활동  
-(부산대 AI 동아리, NLP 기초 및 논문 스터디)
+AI 학술 동아리 (AID)  
+NLP 기초 및 논문 스터디  
 
 <br/>
 </div>
