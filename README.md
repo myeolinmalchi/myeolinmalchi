@@ -33,11 +33,11 @@
 
 ### 👨‍💻 Projects
 
-#### [금쪽이](https://youtu.be/pDSlg8f1r5Q?si=EobTyw_mNLYBOzvP)
+#### 금쪽이
 AI Agent 기반 금융상품 큐레이팅 서비스  
-_(25.03 ~ 진행 중)_  
+_(25.06 ~ 25.08)_  
 
-#### [PNU Chat](https://pnu.chat)  
+#### PNU Chat
 부산대학교 학사 지원 챗봇 (비공식)    
 학사 공지 15만건 수집 / RAG 파이프라인 구축  
 _(24.10 ~ 25.04)_  
