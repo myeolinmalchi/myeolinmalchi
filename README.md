@@ -1,85 +1,61 @@
----
-<div align="center">
+### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Minseok's%20GitHub&fontSize=36&animation=fadeIn)
+AI Engineer who builds RAG pipelines and AI Agent systems into real products.
 
-👏 **AI 기술을 통한 일상의 문제 해결에 관심이 많은 개발자, 강민석입니다.**  
+Currently working at **BrainCrew** _(since 25.09)_
 
-### 📚 Skills
-#### 🧠 RAG & AI Agent
-![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white&style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-langgraph?style=flat-square&logo=langgraph&logoColor=white&color=%23080808)
-![pgvector](https://img.shields.io/badge/pgvector-postgresql?style=flat-square&logo=postgresql&logoColor=white&color=%234169E1)  
-![llama-cpp-python](https://img.shields.io/badge/llama--cpp--python-%231B1F20?style=flat-square)
-![onnxruntime](https://img.shields.io/badge/onnxruntime-%233A3A39?style=flat-square&logo=onnx&logoColor=%233A3A39&color=white)
+### RAG & AI Agent
 
-#### 🛠️ Backend & DB
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-sqlalchemy?style=flat-square&logo=sqlalchemy&logoColor=white&color=%23D71F00)
-![Dependency Injector](https://img.shields.io/badge/Dependency_Injector-%2337A6FF?style=flat-square)  
-![pgvector](https://img.shields.io/badge/PostgreSQL-postgresql?style=flat-square&logo=postgresql&logoColor=white&color=%234169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=langchain)
+![LangGraph](https://img.shields.io/badge/-LangGraph-000)
+![LangSmith](https://img.shields.io/badge/-LangSmith-000)
+![pgvector](https://img.shields.io/badge/-pgvector-000?&logo=postgresql)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-000)
+![Neo4j](https://img.shields.io/badge/-Neo4j-000?&logo=neo4j)
+![Docling](https://img.shields.io/badge/-Docling-000)
+![FastMCP](https://img.shields.io/badge/-FastMCP-000)
+![llama.cpp](https://img.shields.io/badge/-llama.cpp-000)
+![MLflow](https://img.shields.io/badge/-MLflow-000?&logo=mlflow)
+![ONNX Runtime](https://img.shields.io/badge/-ONNX%20Runtime-000?&logo=onnx)
 
-#### 🖥️ Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+### Backend & DB
 
-#### ☁️ Infra
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
+![Celery](https://img.shields.io/badge/-Celery-000?&logo=celery)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
 
-### 👨‍💻 Projects
+### Frontend
 
-#### 금쪽이
-AI Agent 기반 금융상품 큐레이팅 서비스  
-_(25.06 ~ 25.08)_  
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![Astro](https://img.shields.io/badge/-Astro-000?&logo=astro)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
 
-#### PNU Chat
-부산대학교 학사 지원 챗봇 (비공식)    
-학사 공지 15만건 수집 / RAG 파이프라인 구축  
-_(24.10 ~ 25.04)_  
+### Infra
 
-<details>
-<summary>기타 외주 프로젝트</summary>
-
-#### 단기 외주
-[메디스토리지](https://medistorage.kr/landing/index.html), [한비즈](https://www.krbizcc.co.kr/) 등 웹 외주 작업  
-_(24.02 ~ 25.06)_  
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=F90)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions)
 
 
-#### 한국기술허브 PoC 
-  YOLO 기반 문서 파싱 API 개발  
-  RAG 파이프라인 실험 도입  
-  유저·관리자 인터페이스 구현  
-  _(23.02 ~ 24.01)_  
 
-#### [천안아산강소특구](https://innopolis-katech.re.kr/) 
-HTML/CSS/JS 기반 리뉴얼 홈페이지 퍼블리싱  
-_(22.11 ~ 23.01)_  
-</details>
+### Achievements
 
-
-### 🌐 Achievements
-
-2025 FIN:NECT Challenge  
-금쪽이 프로젝트 / 통합 본선 입상  
-
-DIVE 2025 BNK 금융지주 트랙  
-TabTransformer 기반 고객 유형 분석 / 2위  
-
-PNU x Upstage Document AI Challenge    
-문서 기반 AI 서비스 해커톤 / 운영진  
-
-IT 프로젝트 동아리 (APPTIVE)  
-프론트엔드 멘토 / `React` 스터디 운영
-
-AI 학술 동아리 (AID)  
-NLP 기초 및 논문 스터디  
-
-<br/>
-</div>
+🏆 **2025 부산대 x Upstage AI Agent 해커톤** 대상 — AI Agent 기반의 경쟁사 분석 및 모니터링 자동화 시스템 구축\
+🏆 **2025 FIN:NECT Challenge** 통합 본선 입상 — AI Agent 기반 금융상품 큐레이팅 서비스\
+🥈 **DIVE 2025 BNK 금융지주 트랙** 2위 — TabTransformer 기반 고객 유형 분석\
+<br>
+📋 **PNU x Upstage Document AI Challenge** 운영진\
+👨‍🏫 **APPTIVE** 프론트엔드 멘토 · React 스터디 운영\
+📚 **AID** NLP 스터디 & AI 논문 스터디
 
 ---
+
+[![Gmail](https://img.shields.io/badge/-minsuk4820@gmail.com-000?&logo=gmail)](mailto:minsuk4820@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/myeolinmalchi)
