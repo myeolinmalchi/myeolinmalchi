@@ -58,14 +58,18 @@ AI Agent Hackathon — Grand Prize
 🥈 **DIVE 2025**  
 BNK Financial Group Track
 
+🌞 **[Upstage AI Ambassador](https://github.com/upstage-ambassador-2)**  
+2nd Cohort · 2026
+
 📋 **PNU × Upstage**  
 Document AI Challenge Organizer
 
 👨‍🏫 **APPTIVE**  
-Frontend Mentor
+[Frontend Mentor](https://github.com/ApptiveDev/study-frontend)<br>
+[RAG & AI Agent Study](https://github.com/ApptiveDev/rag-agent-study)
 
-📚 **LangGraph Agent Book**  
-Contributing Author
+📚 **[테디노트의 LangGraph 에이전트 비법노트](https://product.kyobobook.co.kr/detail/S000220341620)**  
+Co-author · 2026
 
 </td>
 </tr>
