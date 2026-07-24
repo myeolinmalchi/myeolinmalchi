@@ -1,61 +1,71 @@
-### Hi there 👋
+Hi, I’m **Minseok Kang**. I’m interested in making complex documents machine-usable, long-running agents reliable, and retrieval systems measurable.
 
-AI Engineer who builds RAG pipelines and AI Agent systems into real products.
+AI Engineer at **Braincrew** ·
+[Email](mailto:minsuk4820@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/myeolinmalchi)
 
-Currently working at **BrainCrew** _(since 25.09)_
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### RAG & AI Agent
+### Recent OSS contributions
 
-![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=langchain)
-![LangGraph](https://img.shields.io/badge/-LangGraph-000)
-![LangSmith](https://img.shields.io/badge/-LangSmith-000)
-![pgvector](https://img.shields.io/badge/-pgvector-000?&logo=postgresql)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-000)
-![Neo4j](https://img.shields.io/badge/-Neo4j-000?&logo=neo4j)
-![Docling](https://img.shields.io/badge/-Docling-000)
-![FastMCP](https://img.shields.io/badge/-FastMCP-000)
-![llama.cpp](https://img.shields.io/badge/-llama.cpp-000)
-![MLflow](https://img.shields.io/badge/-MLflow-000?&logo=mlflow)
-![ONNX Runtime](https://img.shields.io/badge/-ONNX%20Runtime-000?&logo=onnx)
+<!-- oss_contributions starts -->
+💬 [rhwp #3202](https://github.com/edwardkim/rhwp/issues/3202)  
+bindings/python 소스 래퍼 추가와 공식 PyPI 배포 방향 논의  
+<sub>Open issue · 2026-07-23</sub>
 
-### Backend & DB
+🟣 [rhwp #3132](https://github.com/edwardkim/rhwp/pull/3132)  
+feat(doclang): HWP/HWPX를 DocLang v0.6 XML로 내보내는 export-doclang 추가  
+<sub>Merged · 2026-07-23</sub>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
-![Celery](https://img.shields.io/badge/-Celery-000?&logo=celery)
-![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
+🟢 [docling #3856](https://github.com/docling-project/docling/pull/3856)  
+feat: add native HWPX document backend  
+<sub>Open PR · 2026-07-23</sub>
 
-### Frontend
+💬 [docling #3602](https://github.com/docling-project/docling/issues/3602)  
+Add HWP/HWPX input backend with layout provenance  
+<sub>Open issue · 2026-06-14</sub>
+<!-- oss_contributions ends -->
 
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![Astro](https://img.shields.io/badge/-Astro-000?&logo=astro)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
+</td>
+<td valign="top" width="34%">
 
-### Infra
+### Projects & collaborations
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=F90)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions)
+<!-- projects_and_collaborations starts -->
+<div>🤝 <a href="https://github.com/edwardkim/rhwp" title="edwardkim/rhwp">rhwp</a> <sub>Contributor · 2026-07-23</sub></div>
+<div>🛠️ <a href="https://github.com/myeolinmalchi/hangulang-python" title="myeolinmalchi/hangulang-python">hangulang-python</a> <sub>Maintainer · 2026-06-16</sub></div>
+<div>🛠️ <a href="https://github.com/myeolinmalchi/hangulang" title="myeolinmalchi/hangulang">hangulang</a> <sub>Maintainer · 2026-06-16</sub></div>
+<div>🤝 <a href="https://github.com/braincrew-lab/langgraph-chat-ui" title="braincrew-lab/langgraph-chat-ui">langgraph-chat-ui</a> <sub>Contributor · 2026-06-09</sub></div>
+<div>🤝 <a href="https://github.com/upstage-ambassador-2/Frontend" title="upstage-ambassador-2/Frontend">Frontend</a> <sub>Contributor · 2026-05-28</sub></div>
+<div>🤝 <a href="https://github.com/upstage-ambassador-2/Backend" title="upstage-ambassador-2/Backend">Backend</a> <sub>Contributor · 2026-05-23</sub></div>
+<div>🛠️ <a href="https://github.com/myeolinmalchi/AgentRef" title="myeolinmalchi/AgentRef">AgentRef</a> <sub>Maintainer · 2026-05-05</sub></div>
+<div>🛠️ <a href="https://github.com/myeolinmalchi/oh-my-upstage" title="myeolinmalchi/oh-my-upstage">oh-my-upstage</a> <sub>Maintainer · 2026-04-12</sub></div>
+<div>🛠️ <a href="https://github.com/myeolinmalchi/mcp2cli" title="myeolinmalchi/mcp2cli">mcp2cli</a> <sub>Maintainer · 2026-03-07</sub></div>
+<div>🛠️ <a href="https://github.com/myeolinmalchi/upstage-cli" title="myeolinmalchi/upstage-cli">upstage-cli</a> <sub>Maintainer · 2026-03-03</sub></div>
+<!-- projects_and_collaborations ends -->
 
+</td>
+<td valign="top" width="33%">
 
+### Community & recognition
 
-### Achievements
+🏆 **PNU × Upstage**  
+AI Agent Hackathon — Grand Prize
 
-🏆 **2025 부산대 x Upstage AI Agent 해커톤** 대상 — AI Agent 기반의 경쟁사 분석 및 모니터링 자동화 시스템 구축\
-🏆 **2025 FIN:NECT Challenge** 통합 본선 입상 — AI Agent 기반 금융상품 큐레이팅 서비스\
-🥈 **DIVE 2025 BNK 금융지주 트랙** 2위 — TabTransformer 기반 고객 유형 분석\
-<br>
-📋 **PNU x Upstage Document AI Challenge** 운영진\
-👨‍🏫 **APPTIVE** 프론트엔드 멘토 · React 스터디 운영\
-📚 **AID** NLP 스터디 & AI 논문 스터디
+🥈 **DIVE 2025**  
+BNK Financial Group Track
 
----
+📋 **PNU × Upstage**  
+Document AI Challenge Organizer
 
-[![Gmail](https://img.shields.io/badge/-minsuk4820@gmail.com-000?&logo=gmail)](mailto:minsuk4820@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/myeolinmalchi)
+👨‍🏫 **APPTIVE**  
+Frontend Mentor
+
+📚 **LangGraph Agent Book**  
+Contributing Author
+
+</td>
+</tr>
+</table>
