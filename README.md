@@ -27,6 +27,7 @@ feat: add native HWPX document backend
 Add HWP/HWPX input backend with layout provenance  
 <sub>Open issue · 2026-06-14</sub>
 <!-- oss_contributions ends -->
+<br>
 
 </td>
 <td valign="top" width="34%">
