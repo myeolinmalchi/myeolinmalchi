@@ -27,6 +27,7 @@ feat: add native HWPX document backend
 Add HWP/HWPX input backend with layout provenance  
 <sub>Open issue · 2026-06-14</sub>
 <!-- oss_contributions ends -->
+<br>
 
 </td>
 <td valign="top" width="34%">
@@ -34,16 +35,16 @@ Add HWP/HWPX input backend with layout provenance
 ### Projects & collaborations
 
 <!-- projects_and_collaborations starts -->
-<div>🤝 <a href="https://github.com/edwardkim/rhwp" title="edwardkim/rhwp">rhwp</a> <sub>Contributor · 2026-07-23</sub></div>
-<div>🛠️ <a href="https://github.com/myeolinmalchi/hangulang-python" title="myeolinmalchi/hangulang-python">hangulang-python</a> <sub>Maintainer · 2026-06-16</sub></div>
-<div>🛠️ <a href="https://github.com/myeolinmalchi/hangulang" title="myeolinmalchi/hangulang">hangulang</a> <sub>Maintainer · 2026-06-16</sub></div>
-<div>🤝 <a href="https://github.com/braincrew-lab/langgraph-chat-ui" title="braincrew-lab/langgraph-chat-ui">langgraph-chat-ui</a> <sub>Contributor · 2026-06-09</sub></div>
-<div>🤝 <a href="https://github.com/upstage-ambassador-2/Frontend" title="upstage-ambassador-2/Frontend">Frontend</a> <sub>Contributor · 2026-05-28</sub></div>
-<div>🤝 <a href="https://github.com/upstage-ambassador-2/Backend" title="upstage-ambassador-2/Backend">Backend</a> <sub>Contributor · 2026-05-23</sub></div>
-<div>🛠️ <a href="https://github.com/myeolinmalchi/AgentRef" title="myeolinmalchi/AgentRef">AgentRef</a> <sub>Maintainer · 2026-05-05</sub></div>
-<div>🛠️ <a href="https://github.com/myeolinmalchi/oh-my-upstage" title="myeolinmalchi/oh-my-upstage">oh-my-upstage</a> <sub>Maintainer · 2026-04-12</sub></div>
-<div>🛠️ <a href="https://github.com/myeolinmalchi/mcp2cli" title="myeolinmalchi/mcp2cli">mcp2cli</a> <sub>Maintainer · 2026-03-07</sub></div>
-<div>🛠️ <a href="https://github.com/myeolinmalchi/upstage-cli" title="myeolinmalchi/upstage-cli">upstage-cli</a> <sub>Maintainer · 2026-03-03</sub></div>
+<div><a href="https://github.com/edwardkim/rhwp" title="edwardkim/rhwp">rhwp</a> <sub>Contributor · 2026-07-23</sub></div>
+<div><a href="https://github.com/myeolinmalchi/hangulang-python" title="myeolinmalchi/hangulang-python">hangulang-python</a> <sub>Maintainer · 2026-06-16</sub></div>
+<div><a href="https://github.com/myeolinmalchi/hangulang" title="myeolinmalchi/hangulang">hangulang</a> <sub>Maintainer · 2026-06-16</sub></div>
+<div><a href="https://github.com/braincrew-lab/langgraph-chat-ui" title="braincrew-lab/langgraph-chat-ui">langgraph-chat-ui</a> <sub>Contributor · 2026-06-09</sub></div>
+<div><a href="https://github.com/upstage-ambassador-2/Frontend" title="upstage-ambassador-2/Frontend">Frontend</a> <sub>Contributor · 2026-05-28</sub></div>
+<div><a href="https://github.com/upstage-ambassador-2/Backend" title="upstage-ambassador-2/Backend">Backend</a> <sub>Contributor · 2026-05-23</sub></div>
+<div><a href="https://github.com/myeolinmalchi/AgentRef" title="myeolinmalchi/AgentRef">AgentRef</a> <sub>Maintainer · 2026-05-05</sub></div>
+<div><a href="https://github.com/myeolinmalchi/oh-my-upstage" title="myeolinmalchi/oh-my-upstage">oh-my-upstage</a> <sub>Maintainer · 2026-04-12</sub></div>
+<div><a href="https://github.com/myeolinmalchi/mcp2cli" title="myeolinmalchi/mcp2cli">mcp2cli</a> <sub>Maintainer · 2026-03-07</sub></div>
+<div><a href="https://github.com/myeolinmalchi/upstage-cli" title="myeolinmalchi/upstage-cli">upstage-cli</a> <sub>Maintainer · 2026-03-03</sub></div>
 <!-- projects_and_collaborations ends -->
 
 </td>
@@ -57,14 +58,18 @@ AI Agent Hackathon — Grand Prize
 🥈 **DIVE 2025**  
 BNK Financial Group Track
 
+🌞 **[Upstage AI Ambassador](https://github.com/upstage-ambassador-2)**  
+2nd Cohort · 2026
+
 📋 **PNU × Upstage**  
 Document AI Challenge Organizer
 
 👨‍🏫 **APPTIVE**  
-Frontend Mentor
+[Frontend Mentor](https://github.com/ApptiveDev/study-frontend)<br>
+[RAG & AI Agent Study](https://github.com/ApptiveDev/rag-agent-study)
 
-📚 **LangGraph Agent Book**  
-Contributing Author
+📚 **[테디노트의 LangGraph 에이전트 비법노트](https://product.kyobobook.co.kr/detail/S000220341620)**  
+Co-author · 2026
 
 </td>
 </tr>

@@ -156,6 +156,7 @@ def maintained_project_items() -> list[dict[str, str]]:
         for repository in repositories
         if not repository.get("archived")
         and not repository.get("fork")
+        and not repository.get("private")
         and repository["name"] != GITHUB_USER
     ]
 
@@ -163,7 +164,7 @@ def maintained_project_items() -> list[dict[str, str]]:
 def collaboration_project_items() -> list[dict[str, str]]:
     params = urlencode(
         {
-            "q": f"author:{GITHUB_USER} is:pr is:merged",
+            "q": f"author:{GITHUB_USER} is:pr is:merged is:public",
             "sort": "updated",
             "order": "desc",
             "per_page": 100,
@@ -198,7 +199,21 @@ def collaboration_project_items() -> list[dict[str, str]]:
 def project_items(limit: int) -> list[dict[str, str]]:
     projects = maintained_project_items() + collaboration_project_items()
     projects.sort(key=lambda item: item["activity_at"], reverse=True)
-    return projects[:limit]
+    selected: list[dict[str, str]] = []
+
+    for project in projects:
+        if project["role"] == "Contributor":
+            metadata = request_json(
+                f"{GITHUB_API}/repos/{project['repository']}"
+            )
+            if metadata.get("private") or metadata.get("visibility") != "public":
+                continue
+
+        selected.append(project)
+        if len(selected) == limit:
+            break
+
+    return selected
 
 
 def render_contributions(items: list[dict[str, str]], limit: int) -> str:
@@ -227,9 +242,8 @@ def render_projects(items: list[dict[str, str]]) -> str:
         repository_name = html.escape(item["repository"].rsplit("/", 1)[-1])
         repository_full_name = html.escape(item["repository"], quote=True)
         url = html.escape(item["url"], quote=True)
-        emoji = "🤝" if item["role"] == "Contributor" else "🛠️"
         blocks.append(
-            f'<div>{emoji} <a href="{url}" title="{repository_full_name}">'
+            f'<div><a href="{url}" title="{repository_full_name}">'
             f"{repository_name}</a> "
             f'<sub>{item["role"]} · {date_part(item["activity_at"])}</sub></div>'
         )
