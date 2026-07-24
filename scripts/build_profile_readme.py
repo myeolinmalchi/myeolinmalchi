@@ -227,9 +227,8 @@ def render_projects(items: list[dict[str, str]]) -> str:
         repository_name = html.escape(item["repository"].rsplit("/", 1)[-1])
         repository_full_name = html.escape(item["repository"], quote=True)
         url = html.escape(item["url"], quote=True)
-        emoji = "🤝" if item["role"] == "Contributor" else "🛠️"
         blocks.append(
-            f'<div>{emoji} <a href="{url}" title="{repository_full_name}">'
+            f'<div><a href="{url}" title="{repository_full_name}">'
             f"{repository_name}</a> "
             f'<sub>{item["role"]} · {date_part(item["activity_at"])}</sub></div>'
         )
