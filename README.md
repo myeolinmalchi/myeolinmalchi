@@ -11,13 +11,13 @@ AI Engineer at **Braincrew** ·
 ### Recent OSS contributions
 
 <!-- oss_contributions starts -->
-🟢 [docling #3856](https://github.com/docling-project/docling/pull/3856)  
-feat: add native HWPX document backend  
-<sub>Open PR · 2026-07-23</sub>
-
 💬 [rhwp #3202](https://github.com/edwardkim/rhwp/issues/3202)  
 bindings/python 소스 래퍼 추가와 공식 PyPI 배포 방향 논의  
 <sub>Open issue · 2026-07-23</sub>
+
+🟢 [docling #3856](https://github.com/docling-project/docling/pull/3856)  
+feat: add native HWPX document backend  
+<sub>Open PR · 2026-07-23</sub>
 
 🟣 [rhwp #3132](https://github.com/edwardkim/rhwp/pull/3132)  
 feat(doclang): HWP/HWPX를 DocLang v0.6 XML로 내보내는 export-doclang 추가  
