@@ -11,6 +11,14 @@ AI Engineer at **Braincrew** ·
 ### Recent OSS contributions
 
 <!-- oss_contributions starts -->
+💬 [docling #3602](https://github.com/docling-project/docling/issues/3602)  
+Add HWP/HWPX input backend with layout provenance  
+<sub>Open issue · 2026-06-14</sub>
+
+🟢 [cmux #19039](https://github.com/manaflow-ai/cmux/pull/19039)  
+Fix aggregate memory-pressure accounting on macOS 27  
+<sub>Open PR · 2026-10-10</sub>
+
 🟢 [docling #3856](https://github.com/docling-project/docling/pull/3856)  
 feat: add native HWPX document backend  
 <sub>Open PR · 2026-07-23</sub>
@@ -18,14 +26,6 @@ feat: add native HWPX document backend
 🔨 [cmux](https://github.com/myeolinmalchi?tab=overview&amp;from=2026-10-01&amp;to=2026-10-31)  
 1 commit contributed  
 <sub>Commit contribution · 2026-10-11</sub>
-
-🟢 [cmux #19039](https://github.com/manaflow-ai/cmux/pull/19039)  
-Fix aggregate memory-pressure accounting on macOS 27  
-<sub>Open PR · 2026-10-10</sub>
-
-💬 [rhwp #3202](https://github.com/edwardkim/rhwp/issues/3202)  
-bindings/python 소스 래퍼 추가와 공식 PyPI 배포 방향 논의  
-<sub>Open issue · 2026-07-23</sub>
 <!-- oss_contributions ends -->
 <br>
 
