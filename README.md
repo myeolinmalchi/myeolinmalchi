@@ -15,13 +15,13 @@ AI Engineer at **Braincrew** ·
 Add HWP/HWPX input backend with layout provenance  
 <sub>Open issue · 2026-06-14</sub>
 
-🟢 [cmux #19039](https://github.com/manaflow-ai/cmux/pull/19039)  
-Fix aggregate memory-pressure accounting on macOS 27  
-<sub>Open PR · 2026-10-10</sub>
-
 🟢 [docling #3856](https://github.com/docling-project/docling/pull/3856)  
 feat: add native HWPX document backend  
 <sub>Open PR · 2026-07-23</sub>
+
+🟢 [cmux #19039](https://github.com/manaflow-ai/cmux/pull/19039)  
+Fix aggregate memory-pressure accounting on macOS 27  
+<sub>Open PR · 2026-10-10</sub>
 
 🔨 [cmux](https://github.com/myeolinmalchi?tab=overview&amp;from=2026-10-01&amp;to=2026-10-31)  
 1 commit contributed  
